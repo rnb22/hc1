@@ -1,0 +1,3819 @@
+﻿Gender,Age,Diagnosis,LOS,Coverage,Discharge,Nationality
+F, 1-5,Digestive Disease,6,UN,sick,Syrian
+M,newborn,Digestive Disease,3,INSURANCE,Healed,Lebanese
+F,newborn,Digestive Disease,3,INSURANCE,Healed,Lebanese
+F, 1-5,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,3,INSURANCE,Healed,Lebanese
+F, 1-5,Digestive Disease,2,INSURANCE,Healed,Lebanese
+F, 6-10,Digestive Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,5,UN,sick,Syrian
+M, 1-5,Digestive Disease,5,INSURANCE,Healed,Lebanese
+F,newborn,Digestive Disease,1,INSURANCE,Healed,Lebanese
+M,newborn,Digestive Disease,7,UN,sick,Syrian
+M,newborn,Digestive Disease,5,UN,sick,Syrian
+F,newborn,Digestive Disease,3,UN,sick,Syrian
+M,newborn,Digestive Disease,3,UN,sick,Syrian
+M,newborn,Digestive Disease,3,UN,sick,Syrian
+F,newborn,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M,newborn,Digestive Disease,4,UN,sick,Syrian
+M,newborn,Digestive Disease,3,INSURANCE,Healed,Lebanese
+M,newborn,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M,newborn,Digestive Disease,3,UN,sick,Syrian
+F,newborn,Digestive Disease,3,UN,sick,Syrian
+F,newborn,Digestive Disease,4,UN,Healed,Syrian
+M,newborn,Digestive Disease,2,UN,Healed,Syrian
+M,newborn,Digestive Disease,3,UN,Healed,Syrian
+F,newborn,Digestive Disease,2,INSURANCE,Healed,Lebanese
+F,newborn,Digestive Disease,5,UN,Healed,Syrian
+M,newborn,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M,newborn,Digestive Disease,3,UN,Healed,Syrian
+M,newborn,Digestive Disease,18,UN,Healed,Syrian
+M,newborn,Digestive Disease,3,UN,Healed,Syrian
+F,newborn,Digestive Disease,3,UN,Healed,Syrian
+F,newborn,Digestive Disease,4,UN,Healed,Syrian
+F,newborn,Digestive Disease,4,INSURANCE,Healed,Lebanese
+F,newborn,Digestive Disease,5,UN,Healed,Syrian
+F,newborn,Digestive Disease,3,UN,Healed,Syrian
+M,newborn,Digestive Disease,1,UN,Healed,Syrian
+M,newborn,Digestive Disease,4,UN,Healed,Syrian
+M, 1-5,Digestive Disease,3,UN,Healed,Syrian
+M, 1-5,Digestive Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,3,UN,Healed,Syrian
+M, 1-5,Digestive Disease,5,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,1,INSURANCE,Healed,Lebanese
+F, 1-5,Digestive Disease,4,UN,Healed,Syrian
+M, 1-5,Digestive Disease,4,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,3,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,7,UN,Healed,Syrian
+M, 1-5,Digestive Disease,3,INSURANCE,Healed,Lebanese
+F, 1-5,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,3,UN,Healed,Syrian
+M, 1-5,Digestive Disease,4,UN,Healed,Syrian
+M, 1-5,Digestive Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,2,UN,Healed,Syrian
+M, 1-5,Digestive Disease,3,UN,Healed,Syrian
+F, 1-5,Digestive Disease,4,INSURANCE,Healed,Lebanese
+F, 1-5,Digestive Disease,1,UN,Healed,Syrian
+M, 1-5,Digestive Disease,3,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,2,INSURANCE,Healed,Lebanese
+F, 1-5,Digestive Disease,4,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,2,PRIVATE,Healed,Lebanese
+M, 1-5,Digestive Disease,2,UN,Healed,Syrian
+M, 1-5,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,3,UN,Healed,Syrian
+M, 1-5,Digestive Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,4,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,5,UN,Healed,Syrian
+M, 1-5,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,1,INSURANCE,Healed,Lebanese
+F, 1-5,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,1,INSURANCE,Healed,Lebanese
+F, 1-5,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,4,UN,Healed,Syrian
+F, 1-5,Digestive Disease,5,UN,Healed,Syrian
+F, 1-5,Digestive Disease,2,UN,Healed,Syrian
+F, 1-5,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,2,UN,Healed,Syrian
+F, 1-5,Digestive Disease,3,UN,Healed,Syrian
+M, 1-5,Digestive Disease,3,UN,Healed,Syrian
+F, 1-5,Digestive Disease,3,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,7,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,3,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,2,UN,Healed,Syrian
+M, 1-5,Digestive Disease,4,UN,sick,Syrian
+F, 1-5,Digestive Disease,1,UN,sick,Syrian
+M, 1-5,Digestive Disease,5,INSURANCE,Healed,Lebanese
+F, 1-5,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,8,UN,sick,Syrian
+M, 1-5,Digestive Disease,3,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,3,UN,sick,Syrian
+M, 1-5,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,3,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,2,INSURANCE,Healed,Lebanese
+F, 1-5,Digestive Disease,2,INSURANCE,Healed,Lebanese
+F, 1-5,Digestive Disease,1,UN,sick,Syrian
+M, 1-5,Digestive Disease,5,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,3,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,3,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,2,UN,sick,Syrian
+F, 1-5,Digestive Disease,2,UN,sick,Syrian
+M, 1-5,Digestive Disease,2,INSURANCE,sick,Lebanese
+M, 1-5,Digestive Disease,3,UN,sick,Syrian
+M, 6-10,Digestive Disease,3,INSURANCE,sick,Lebanese
+M, 6-10,Digestive Disease,1,INSURANCE,sick,Lebanese
+M, 6-10,Digestive Disease,1,INSURANCE,sick,Lebanese
+M, 6-10,Digestive Disease,1,INSURANCE,sick,Lebanese
+F, 6-10,Digestive Disease,1,UN,sick,Syrian
+M, 6-10,Digestive Disease,2,INSURANCE,sick,Lebanese
+M, 6-10,Digestive Disease,3,INSURANCE,sick,Lebanese
+F, 6-10,Digestive Disease,5,PRIVATE,sick,Lebanese
+F, 6-10,Digestive Disease,1,INSURANCE,sick,Lebanese
+F, 6-10,Digestive Disease,1,UN,sick,Syrian
+F, 6-10,Digestive Disease,1,UN,sick,Syrian
+M, 6-10,Digestive Disease,2,INSURANCE,sick,Lebanese
+M, 6-10,Digestive Disease,1,INSURANCE,sick,Lebanese
+F, 6-10,Digestive Disease,1,INSURANCE,sick,Lebanese
+F, 6-10,Digestive Disease,4,INSURANCE,sick,Lebanese
+M, 6-10,Digestive Disease,2,INSURANCE,sick,Lebanese
+F, 6-10,Digestive Disease,2,INSURANCE,sick,Lebanese
+F, 6-10,Digestive Disease,4,INSURANCE,sick,Lebanese
+F, 6-10,Digestive Disease,1,INSURANCE,sick,Lebanese
+F, 6-10,Digestive Disease,2,PRIVATE,Healed,Lebanese
+F, 6-10,Digestive Disease,3,UN,sick,Syrian
+M, 6-10,Digestive Disease,1,INSURANCE,Healed,Lebanese
+F, 16-20,Digestive Disease,5,INSURANCE,Healed,Lebanese
+M, 11-15,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M, 11-15,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M, 11-15,Digestive Disease,3,INSURANCE,Healed,Lebanese
+M, 11-15,Digestive Disease,2,INSURANCE,Healed,Lebanese
+F, 11-15,Digestive Disease,3,UN,sick,Syrian
+M, 16-20,Digestive Disease,1,INSURANCE,Healed,Lebanese
+M, 21-30,Digestive Disease,1,INSURANCE,Healed,Lebanese
+F,newborn,Digestive Disease,14,UN,sick,Syrian
+M,newborn,Digestive Disease,1,INSURANCE,Healed,Lebanese
+M,newborn,Digestive Disease,2,UN,sick,Syrian
+F, 1-5,Digestive Disease,4,UN,sick,Syrian
+M, 1-5,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,1,PRIVATE,sick,Lebanese
+M, 1-5,Digestive Disease,6,INSURANCE,Healed,Lebanese
+F, 6-10,Digestive Disease,16,UN,sick,Syrian
+M, 1-5,Digestive Disease,4,INSURANCE,Healed,Lebanese
+F, 30-40,Gynecology Disease,2,INSURANCE,Healed,Lebanese
+F, 30-40,Hematology Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Hematology Disease,1,UN,sick,Syrian
+M, 1-5,Hematology Disease,3,UN,sick,Syrian
+M, 1-5,Hematology Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Hematology Disease,3,UN,sick,Syrian
+F, 1-5,Hematology Disease,1,UN,sick,Syrian
+F, 1-5,Hematology Disease,3,UN,sick,Syrian
+M, 1-5,Hematology Disease,2,UN,sick,Syrian
+M, 6-10,Hematology Disease,2,UN,sick,Syrian
+F, 11-15,Hematology Disease,2,UN,sick,Syrian
+M, 21-30,Hematology Disease,1,INSURANCE,Healed,Lebanese
+F, 30-40,Hematology Disease,1,INSURANCE,Healed,Lebanese
+F, 30-40,Hematology Disease,1,INSURANCE,Healed,Lebanese
+F, 30-40,Hematology Disease,2,INSURANCE,Healed,Lebanese
+M,newborn,Hematology Disease,1,UN,sick,Syrian
+M,newborn,Hematology Disease,2,PRIVATE,Healed,Lebanese
+M,newborn,Hematology Disease,2,UN,sick,Syrian
+M, 1-5,Hematology Disease,2,UN,sick,Syrian
+F, 1-5,Hematology Disease,4,UN,sick,Syrian
+M, 1-5,Hematology Disease,2,UN,sick,Syrian
+M, 1-5,Hematology Disease,2,UN,sick,Syrian
+F, 21-30,Hematology Disease,1,UN,sick,Syrian
+M, 1-5,Hematology Disease,3,INSURANCE,sick,Lebanese
+F, 1-5,Hematology Disease,5,INSURANCE,sick,Lebanese
+F, 1-5,Hematology Disease,1,UN,sick,Syrian
+F,newborn,Hematology Disease,5,UN,sick,Syrian
+F,newborn,Hematology Disease,4,UN,sick,Syrian
+F, 1-5,Hematology Disease,1,UN,sick,Syrian
+M, 30-40,Hematology Disease,1,INSURANCE,sick,Lebanese
+M, 6-10,Hematology Disease,1,INSURANCE,sick,Lebanese
+M, 11-15,Hematology Disease,2,INSURANCE,sick,Lebanese
+M, 11-15,Infectious Disease,4,INSURANCE,sick,Lebanese
+M, 30-40,Infectious Disease,1,INSURANCE,Healed,Lebanese
+M,newborn,Surgery,1,PRIVATE,Healed,Lebanese
+M,newborn,Surgery,1,INSURANCE,Healed,Lebanese
+M,newborn,Surgery,1,UN,sick,Syrian
+M,newborn,Surgery,1,UN,sick,Syrian
+M,newborn,Surgery,1,INSURANCE,Healed,Lebanese
+M,newborn,Surgery,1,INSURANCE,Healed,Lebanese
+M,newborn,Surgery,1,UN,sick,Syrian
+M,newborn,Surgery,1,UN,sick,Syrian
+M,newborn,Surgery,1,UN,sick,Syrian
+M,newborn,Surgery,1,UN,sick,Syrian
+F,newborn,Surgery,1,UN,sick,Syrian
+M,newborn,Surgery,1,UN,sick,Syrian
+M,newborn,Surgery,1,UN,sick,Syrian
+M,newborn,Surgery,1,UN,sick,Syrian
+M,newborn,Surgery,1,UN,sick,Syrian
+F,newborn,Surgery,1,UN,sick,Syrian
+M,newborn,Surgery,1,UN,sick,Syrian
+M,newborn,Surgery,1,UN,sick,Syrian
+M,newborn,Surgery,1,UN,sick,Syrian
+M, 1-5,Surgery,1,UN,sick,Syrian
+F, 1-5,Surgery,1,INSURANCE,Healed,Lebanese
+M, 1-5,Surgery,1,INSURANCE,Healed,Lebanese
+M, 1-5,Surgery,1,UN,sick,Syrian
+M, 1-5,Surgery,1,INSURANCE,Healed,Lebanese
+M, 1-5,Surgery,1,INSURANCE,Healed,Lebanese
+M, 1-5,Surgery,1,UN,sick,Syrian
+M, 1-5,Surgery,1,INSURANCE,Healed,Lebanese
+M, 1-5,Surgery,1,INSURANCE,Healed,Lebanese
+M, 1-5,Surgery,1,INSURANCE,Healed,Lebanese
+F, 1-5,Surgery,1,INSURANCE,Healed,Lebanese
+F, 1-5,Surgery,1,INSURANCE,Healed,Lebanese
+M, 1-5,Surgery,1,INSURANCE,Healed,Lebanese
+F, 1-5,Surgery,1,INSURANCE,Healed,Lebanese
+M, 6-10,Surgery,1,INSURANCE,Healed,Lebanese
+M, 6-10,Surgery,1,INSURANCE,Healed,Lebanese
+F, 6-10,Surgery,1,UN,sick,Syrian
+M, 6-10,Surgery,1,INSURANCE,Healed,Lebanese
+M, 6-10,Surgery,1,INSURANCE,Healed,Lebanese
+M, 6-10,Surgery,1,INSURANCE,Healed,Lebanese
+F, 1-5,Surgery,1,UN,sick,Syrian
+M,newborn,Surgery,2,INSURANCE,Healed,Lebanese
+M, 6-10,Surgery,1,UN,sick,Syrian
+M, 1-5,Surgery,1,INSURANCE,Healed,Lebanese
+M, 1-5,Surgery,1,INSURANCE,Healed,Lebanese
+M, 1-5,Surgery,1,INSURANCE,Healed,Lebanese
+F, 1-5,Surgery,1,INSURANCE,Healed,Lebanese
+F, 11-15,Surgery,1,INSURANCE,Healed,Lebanese
+M, 1-5,Surgery,1,INSURANCE,Healed,Lebanese
+F, 30-40,Surgery,1,INSURANCE,Healed,Lebanese
+M,newborn,Digestive Disease,6,UN,sick,Syrian
+M, 1-5,Digestive Disease,3,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,4,INSURANCE,Healed,Lebanese
+F, 1-5,Digestive Disease,3,UN,sick,Syrian
+F, 6-10,Digestive Disease,3,INSURANCE,Healed,Lebanese
+M, 6-10,Digestive Disease,3,INSURANCE,Healed,Lebanese
+M,newborn,Digestive Disease,4,INSURANCE,Healed,Lebanese
+F,newborn,Digestive Disease,1,INSURANCE,Healed,Lebanese
+M,newborn,Digestive Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,1,INSURANCE,Healed,Lebanese
+F, 6-10,Digestive Disease,1,INSURANCE,Healed,Lebanese
+M, 11-15,Digestive Disease,1,INSURANCE,Healed,Lebanese
+M, 21-30,Digestive Disease,1,PRIVATE,Healed,Lebanese
+M,newborn,Digestive Disease,1,UN,sick,Syrian
+F, 6-10,Gynecology Disease,1,INSURANCE,Healed,Lebanese
+F, 11-15,Gynecology Disease,2,INSURANCE,Healed,Lebanese
+F, 16-20,Digestive Disease,1,INSURANCE,Healed,Lebanese
+F, 30-40,Digestive Disease,1,INSURANCE,Healed,Lebanese
+F, 11-15,Gynecology Disease,5,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,7,INSURANCE,Healed,Lebanese
+M, 11-15,Skin Disease,1,INSURANCE,Healed,Lebanese
+M, 11-15,Skin Disease,1,INSURANCE,Healed,Lebanese
+M, 11-15,Skin Disease,1,INSURANCE,Healed,Lebanese
+F, 11-15,Skin Disease,1,INSURANCE,Healed,Lebanese
+F, 11-15,Skin Disease,1,INSURANCE,Healed,Lebanese
+M, 16-20,Skin Disease,1,INSURANCE,Healed,Lebanese
+F, 16-20,Skin Disease,1,INSURANCE,Healed,Lebanese
+M, 21-30,Skin Disease,1,INSURANCE,Healed,Lebanese
+M, 21-30,Skin Disease,1,INSURANCE,Healed,Lebanese
+F, 16-20,Skin Disease,1,INSURANCE,Healed,Lebanese
+F, 1-5,Skin Disease,1,INSURANCE,Healed,Lebanese
+F, 1-5,Skin Disease,7,UN,sick,Syrian
+F, 21-30,Skin Disease,1,INSURANCE,Healed,Lebanese
+F, 11-15,Skin Disease,1,INSURANCE,Healed,Lebanese
+M, 21-30,Skin Disease,1,INSURANCE,Healed,Lebanese
+M, 21-30,Skin Disease,1,INSURANCE,Healed,Lebanese
+F, 21-30,Pain,2,INSURANCE,Healed,Lebanese
+M, 11-15,Nervous Disease,4,INSURANCE,sick,Lebanese
+M, 16-20,Surgery,1,INSURANCE,Healed,Lebanese
+F, 21-30,Muscluar Disease,1,INSURANCE,Healed,Lebanese
+M, 11-15,Muscluar Disease,1,INSURANCE,Healed,Lebanese
+M, 16-20,Muscluar Disease,1,INSURANCE,Healed,Lebanese
+M, 21-30,Muscluar Disease,1,INSURANCE,Healed,Lebanese
+F, 30-40,Surgery,1,INSURANCE,Healed,Lebanese
+M, 21-30,Muscluar Disease,1,INSURANCE,Healed,Lebanese
+F, 16-20,Respiratory Disease,1,PRIVATE,Healed,Lebanese
+M, 1-5,Renal Disease,1,PRIVATE,Healed,Lebanese
+M, 6-10,Renal Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Renal Disease,1,PRIVATE,Healed,Lebanese
+F, 1-5,Renal Disease,1,PRIVATE,Healed,Lebanese
+M, 1-5,Renal Disease,1,PRIVATE,Healed,Lebanese
+F, 1-5,Renal Disease,1,PRIVATE,Healed,Lebanese
+M, 1-5,Renal Disease,1,PRIVATE,Healed,Lebanese
+M, 1-5,Renal Disease,1,PRIVATE,Healed,Lebanese
+M, 1-5,Renal Disease,1,PRIVATE,Healed,Lebanese
+F, 1-5,Renal Disease,1,PRIVATE,Healed,Lebanese
+F, 6-10,Renal Disease,1,PRIVATE,Healed,Lebanese
+F, 6-10,Renal Disease,1,PRIVATE,Healed,Lebanese
+F, 6-10,Renal Disease,1,PRIVATE,Healed,Lebanese
+M, 6-10,Renal Disease,1,PRIVATE,Healed,Lebanese
+M, 11-15,Renal Disease,1,PRIVATE,Healed,Lebanese
+M, 11-15,Renal Disease,1,PRIVATE,Healed,Lebanese
+M, 11-15,Renal Disease,1,PRIVATE,Healed,Lebanese
+M, 11-15,Renal Disease,1,PRIVATE,Healed,Lebanese
+F, 11-15,Renal Disease,1,PRIVATE,Healed,Lebanese
+F, 16-20,Renal Disease,1,PRIVATE,Healed,Lebanese
+M, 16-20,Renal Disease,1,PRIVATE,Healed,Lebanese
+F, 16-20,Renal Disease,1,PRIVATE,Healed,Lebanese
+F, 16-20,Renal Disease,1,INSURANCE,Healed,Lebanese
+M, 16-20,Renal Disease,1,INSURANCE,Healed,Lebanese
+M, 16-20,Renal Disease,1,PRIVATE,Healed,Lebanese
+F, 16-20,Renal Disease,1,PRIVATE,Healed,Lebanese
+M, 16-20,Renal Disease,1,PRIVATE,Healed,Lebanese
+M, 21-30,Renal Disease,1,PRIVATE,Healed,Lebanese
+M, 21-30,Renal Disease,1,INSURANCE,Healed,Lebanese
+F, 30-40,Renal Disease,1,PRIVATE,Healed,Lebanese
+M, 11-15,Renal Disease,1,PRIVATE,Healed,Lebanese
+F, 6-10,Renal Disease,10,UN,sick,Syrian
+F, 16-20,Renal Disease,23,UN,sick,Syrian
+M,newborn,Renal Disease,3,UN,sick,Syrian
+F, 6-10,Renal Disease,1,PRIVATE,Healed,Lebanese
+F, 16-20,Renal Disease,2,INSURANCE,Healed,Lebanese
+F, 30-40,Renal Disease,2,INSURANCE,Healed,Lebanese
+M, 16-20,Renal Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Renal Disease,1,PRIVATE,Healed,Lebanese
+F,newborn,Renal Disease,3,INSURANCE,Healed,Lebanese
+F,newborn,Renal Disease,4,INSURANCE,Healed,Lebanese
+F, 1-5,Renal Disease,3,INSURANCE,Healed,Lebanese
+F, 1-5,Renal Disease,3,INSURANCE,Healed,Lebanese
+F, 1-5,Renal Disease,3,INSURANCE,Healed,Lebanese
+F, 1-5,Renal Disease,4,INSURANCE,Healed,Lebanese
+F, 1-5,Renal Disease,6,INSURANCE,Healed,Lebanese
+F, 6-10,Renal Disease,2,UN,sick,Syrian
+F, 6-10,Renal Disease,2,INSURANCE,Healed,Lebanese
+M, 11-15,Renal Disease,1,INSURANCE,Healed,Lebanese
+M, 6-10,Renal Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Renal Disease,1,INSURANCE,Healed,Lebanese
+M, 16-20,Renal Disease,1,INSURANCE,Healed,Lebanese
+F, 30-40,Skin Disease,1,INSURANCE,Healed,Lebanese
+F, 16-20,Skin Disease,1,INSURANCE,Healed,Lebanese
+F, 21-30,Skin Disease,1,INSURANCE,Healed,Lebanese
+F, 16-20,Skin Disease,1,PRIVATE,Healed,Lebanese
+F, 30-40,Gynecology Disease,1,UN,sick,Syrian
+F, 21-30,Gynecology Disease,1,UN,sick,Syrian
+F, 21-30,Gynecology Disease,2,UN,Healed,Syrian
+F, 6-10,Nervous Disease,2,UN,Healed,Syrian
+M, 1-5,Nervous Disease,3,INSURANCE,sick,Lebanese
+F, 6-10,Nervous Disease,1,INSURANCE,Healed,Lebanese
+M, 11-15,Nervous Disease,1,INSURANCE,Healed,Lebanese
+F, 11-15,Nervous Disease,4,UN,Healed,Syrian
+F, 1-5,Nervous Disease,2,UN,Healed,Syrian
+M, 6-10,Nervous Disease,1,PRIVATE,Healed,Lebanese
+M, 6-10,Nervous Disease,3,UN,Healed,Syrian
+M, 6-10,Nervous Disease,1,INSURANCE,Healed,Lebanese
+M, 11-15,Nervous Disease,1,INSURANCE,Healed,Lebanese
+F, 11-15,Nervous Disease,1,UN,Healed,Syrian
+F, 30-40,Nervous Disease,1,INSURANCE,Healed,Lebanese
+F, 16-20,Nervous Disease,2,INSURANCE,Healed,Lebanese
+M,newborn,Nervous Disease,3,UN,Healed,Syrian
+F, 1-5,Nervous Disease,1,UN,sick,Syrian
+M, 1-5,Nervous Disease,1,INSURANCE,Healed,Lebanese
+F, 6-10,Nervous Disease,1,INSURANCE,Healed,Lebanese
+F, 21-30,Nervous Disease,1,INSURANCE,Healed,Lebanese
+F, 1-5,Nervous Disease,1,INSURANCE,Healed,Lebanese
+M,newborn,Nervous Disease,7,INSURANCE,Healed,Lebanese
+M, 6-10,Nervous Disease,1,INSURANCE,Healed,Lebanese
+F, 30-40,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,3,UN,sick,Syrian
+F, 30-40,Obstetric ,1,UN,sick,Syrian
+F, 30-40,Obstetric ,2,UN,sick,Syrian
+F, 21-30,Hematology Disease,2,PRIVATE,Healed,Lebanese
+F, 30-40,Hematology Disease,2,INSURANCE,Healed,Lebanese
+F, 30-40,Obstetric ,1,UN,sick,Syrian
+F, 30-40,Obstetric ,1,UN,sick,Syrian
+F, 30-40,Obstetric ,1,UN,sick,Syrian
+F, 30-40,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,1,UN,Healed,Syrian
+F, 30-40,Obstetric ,1,UN,Healed,Syrian
+F, 30-40,Obstetric ,1,UN,sick,Syrian
+F, 30-40,Obstetric ,2,UN,sick,Syrian
+F, 30-40,Obstetric ,2,UN,sick,Syrian
+F, 30-40,Obstetric ,1,UN,sick,Syrian
+F, 30-40,Obstetric ,1,UN,sick,Syrian
+F, 30-40,Obstetric ,2,UN,sick,Syrian
+F, 30-40,Obstetric ,1,UN,sick,Syrian
+F, 30-40,Obstetric ,2,UN,sick,Syrian
+F, 30-40,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,1,UN,sick,Syrian
+F, 30-40,Obstetric ,1,UN,sick,Syrian
+F, 30-40,Obstetric ,1,UN,sick,Syrian
+F, 30-40,Obstetric ,4,UN,sick,Syrian
+F, 30-40,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,INSURANCE,Healed,Lebanese
+F, 30-40,Obstetric ,1,UN,Healed,Syrian
+F, 30-40,Obstetric ,1,UN,Healed,Syrian
+F, 30-40,Obstetric ,1,UN,sick,Syrian
+F, 30-40,Obstetric ,2,UN,sick,Syrian
+F, 30-40,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,INSURANCE,Healed,Lebanese
+F, 30-40,Obstetric ,1,UN,Healed,Syrian
+F, 30-40,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,1,UN,Healed,Syrian
+F, 30-40,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,INSURANCE,Healed,Lebanese
+F, 30-40,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,1,UN,Healed,Syrian
+F, 30-40,Obstetric ,3,INSURANCE,Healed,Lebanese
+F, 30-40,Obstetric ,1,UN,Healed,Syrian
+F, 30-40,Obstetric ,1,UN,Healed,Syrian
+F, 30-40,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,1,UN,Healed,Syrian
+F, 30-40,Obstetric ,1,UN,Healed,Syrian
+F, 30-40,Obstetric ,1,UN,Healed,Syrian
+F, 30-40,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,2,INSURANCE,Healed,Lebanese
+F, 30-40,Obstetric ,1,UN,Healed,Syrian
+F, 30-40,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,1,UN,Healed,Syrian
+F, 30-40,Obstetric ,1,UN,Healed,Syrian
+F, 30-40,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,1,UN,Healed,Syrian
+F, 30-40,Obstetric ,2,INSURANCE,Healed,Lebanese
+F, 30-40,Obstetric ,2,INSURANCE,Healed,Lebanese
+F, 30-40,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,1,UN,Healed,Syrian
+F, 30-40,Obstetric ,1,INSURANCE,Healed,Lebanese
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,3,INSURANCE,Healed,Lebanese
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,3,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,INSURANCE,Healed,Lebanese
+F, 21-30,Obstetric ,2,INSURANCE,Healed,Lebanese
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,3,UN,Healed,Syrian
+F, 30-40,Obstetric ,2,INSURANCE,Healed,Lebanese
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,1,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+F, 21-30,Obstetric ,2,INSURANCE,Healed,Lebanese
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,3,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,PRIVATE,Healed,Lebanese
+F, 21-30,Obstetric ,1,INSURANCE,Healed,Lebanese
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,INSURANCE,Healed,Lebanese
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,PRIVATE,Healed,Lebanese
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,3,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,INSURANCE,Healed,Lebanese
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,INSURANCE,Healed,Lebanese
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,PRIVATE,Healed,Lebanese
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,1,UN,sick,Syrian
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 16-20,Obstetric ,2,UN,Healed,Syrian
+F, 16-20,Obstetric ,2,UN,Healed,Syrian
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 16-20,Obstetric ,2,UN,Healed,Syrian
+F, 16-20,Obstetric ,2,UN,Healed,Syrian
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 16-20,Obstetric ,2,UN,Healed,Syrian
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,INSURANCE,Healed,Lebanese
+F, 16-20,Obstetric ,2,UN,Healed,Syrian
+F, 21-30,Obstetric ,2,INSURANCE,Healed,Lebanese
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 16-20,Obstetric ,2,UN,Healed,Syrian
+F, 16-20,Obstetric ,2,UN,Healed,Syrian
+F, 16-20,Obstetric ,2,UN,Healed,Syrian
+F, 16-20,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,2,INSURANCE,Healed,Lebanese
+F, 30-40,Obstetric ,2,INSURANCE,Healed,Lebanese
+F, 16-20,Obstetric ,2,UN,Healed,Syrian
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 16-20,Obstetric ,2,UN,Healed,Syrian
+F, 16-20,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,1,PRIVATE,Healed,Lebanese
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 16-20,Obstetric ,2,UN,Healed,Syrian
+F, 30-40,Obstetric ,1,INSURANCE,Healed,Lebanese
+F, 16-20,Obstetric ,2,UN,Healed,Syrian
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 16-20,Obstetric ,2,UN,Healed,Syrian
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 16-20,Obstetric ,2,UN,Healed,Syrian
+F, 16-20,Obstetric ,2,UN,Healed,Syrian
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 16-20,Obstetric ,2,UN,Healed,Syrian
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 30-40,Obstetric ,1,INSURANCE,Healed,Lebanese
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 16-20,Obstetric ,2,UN,Healed,Syrian
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 16-20,Obstetric ,1,UN,Healed,Syrian
+F, 11-15,Obstetric ,1,UN,Healed,Syrian
+F, 11-15,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,5,UN,Healed,Syrian
+F,newborn,Obstetric ,5,UN,Healed,Syrian
+F,newborn,Obstetric ,9,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,6,UN,sick,Syrian
+F,newborn,Obstetric ,4,UN,Healed,Syrian
+M,newborn,Obstetric ,4,UN,Healed,Syrian
+M,newborn,Obstetric ,4,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,2,PRIVATE,Healed,Lebanese
+F,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,PRIVATE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,1,PRIVATE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,PRIVATE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,INSURANCE,sick,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,PRIVATE,Healed,Lebanese
+M,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,PRIVATE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,PRIVATE,Healed,Lebanese
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,PRIVATE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,PRIVATE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,PRIVATE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,PRIVATE,Healed,Lebanese
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,PRIVATE,Healed,Lebanese
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,PRIVATE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,7,UN,Healed,Syrian
+M,newborn,Obstetric ,6,UN,Healed,Syrian
+M,newborn,Obstetric ,9,UN,Healed,Syrian
+M,newborn,Obstetric ,10,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,sick,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,sick,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,sick,Syrian
+F,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,sick,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,sick,Syrian
+F,newborn,Obstetric ,1,PRIVATE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,sick,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,sick,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,sick,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,7,PRIVATE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,sick,Syrian
+F,newborn,Obstetric ,10,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,sick,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,sick,Syrian
+F,newborn,Obstetric ,2,PRIVATE,sick,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,PRIVATE,sick,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,sick,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,sick,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,sick,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,sick,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,sick,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,sick,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,sick,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,sick,Lebanese
+M,newborn,Obstetric ,2,INSURANCE,sick,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,sick,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,sick,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,sick,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,sick,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,sick,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,sick,Lebanese
+M,newborn,Obstetric ,2,UN,sick,Syrian
+M,newborn,Obstetric ,2,UN,sick,Syrian
+F,newborn,Obstetric ,2,UN,sick,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,sick,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,sick,Lebanese
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,sick,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,sick,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,sick,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,sick,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,sick,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,sick,Lebanese
+M,newborn,Obstetric ,2,UN,sick,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,sick,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,INSURANCE,sick,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,sick,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,sick,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,PRIVATE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,sick,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,sick,Syrian
+M,newborn,Obstetric ,2,UN,sick,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,sick,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,PRIVATE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,sick,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,INSURANCE,sick,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,PRIVATE,Healed,Lebanese
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,sick,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,PRIVATE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,PRIVATE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,sick,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,PRIVATE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,sick,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,sick,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,sick,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,sick,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,sick,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,PRIVATE,Healed,Lebanese
+M,newborn,Obstetric ,2,PRIVATE,Healed,Lebanese
+F,newborn,Obstetric ,2,INSURANCE,sick,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,PRIVATE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,PRIVATE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,PRIVATE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,sick,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,PRIVATE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,3,UN,Healed,Syrian
+F,newborn,Obstetric ,3,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,3,UN,Healed,Syrian
+M,newborn,Obstetric ,3,UN,Healed,Syrian
+M,newborn,Obstetric ,2,PRIVATE,Healed,Lebanese
+F,newborn,Obstetric ,3,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,3,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,2,PRIVATE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+M,newborn,Obstetric ,3,UN,Healed,Syrian
+M,newborn,Obstetric ,3,UN,Healed,Syrian
+F,newborn,Obstetric ,3,UN,Healed,Syrian
+M,newborn,Obstetric ,3,UN,Healed,Syrian
+M,newborn,Obstetric ,11,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,2,UN,sick,Syrian
+M,newborn,Obstetric ,2,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,3,PRIVATE,Healed,Lebanese
+F,newborn,Obstetric ,3,INSURANCE,sick,Lebanese
+F,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,3,INSURANCE,sick,Lebanese
+F,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,4,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,4,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,5,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,PRIVATE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,sick,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,sick,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+F,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,2,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,3,PRIVATE,Healed,Lebanese
+F,newborn,Obstetric ,3,PRIVATE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,3,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,5,INSURANCE,Healed,Lebanese
+M,newborn,Obstetric ,5,INSURANCE,sick,Lebanese
+M,newborn,Obstetric ,1,UN,Healed,Syrian
+F,newborn,Respiratory Disease,7,INSURANCE,Healed,Lebanese
+F,newborn,Respiratory Disease,7,INSURANCE,Healed,Lebanese
+F,newborn,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M,newborn,Respiratory Disease,13,INSURANCE,Healed,Lebanese
+F, 16-20,Respiratory Disease,1,PRIVATE,Healed,Lebanese
+M, 1-5,Respiratory Disease,1,PRIVATE,Healed,Lebanese
+F, 6-10,Respiratory Disease,1,PRIVATE,Healed,Lebanese
+M, 1-5,Respiratory Disease,9,UN,Healed,Syrian
+F,newborn,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,5,INSURANCE,Healed,Lebanese
+M, 1-5,Gynecology Disease,1,UN,Healed,Syrian
+M, 1-5,Gynecology Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Gynecology Disease,1,UN,Healed,Syrian
+M, 1-5,Gynecology Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Gynecology Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Gynecology Disease,1,UN,Healed,Syrian
+M, 1-5,Gynecology Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Gynecology Disease,1,INSURANCE,Healed,Lebanese
+M, 6-10,Gynecology Disease,1,UN,Healed,Syrian
+M, 1-5,Gynecology Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Gynecology Disease,1,PRIVATE,Healed,Lebanese
+M,newborn,Gynecology Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Gynecology Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Gynecology Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Gynecology Disease,5,UN,Healed,Syrian
+M, 1-5,Gynecology Disease,1,PRIVATE,Healed,Lebanese
+M, 11-15,Heart Disease,1,INSURANCE,Healed,Lebanese
+M, 6-10,Heart Disease,1,INSURANCE,Healed,Lebanese
+F, 11-15,Heart Disease,1,INSURANCE,Healed,Lebanese
+M, 11-15,Heart Disease,2,INSURANCE,Healed,Lebanese
+F, 16-20,Heart Disease,2,INSURANCE,Healed,Lebanese
+M, 6-10,Heart Disease,3,INSURANCE,Healed,Lebanese
+F, 11-15,Heart Disease,1,PRIVATE,Healed,Lebanese
+M,newborn,Respiratory Disease,5,UN,Healed,Syrian
+M,newborn,Respiratory Disease,4,UN,Healed,Syrian
+M,newborn,Respiratory Disease,2,UN,Healed,Syrian
+M,newborn,Respiratory Disease,5,UN,Healed,Syrian
+M,newborn,Respiratory Disease,5,INSURANCE,Healed,Lebanese
+M,newborn,Respiratory Disease,8,INSURANCE,Healed,Lebanese
+M,newborn,Respiratory Disease,6,UN,Healed,Syrian
+F,newborn,Respiratory Disease,3,UN,Healed,Syrian
+F,newborn,Respiratory Disease,4,INSURANCE,Healed,Lebanese
+M,newborn,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+M,newborn,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+M,newborn,Respiratory Disease,5,INSURANCE,Healed,Lebanese
+M,newborn,Respiratory Disease,4,INSURANCE,Healed,Lebanese
+M,newborn,Respiratory Disease,5,UN,Healed,Syrian
+M,newborn,Respiratory Disease,3,UN,Healed,Syrian
+M,newborn,Respiratory Disease,5,UN,Healed,Syrian
+M,newborn,Respiratory Disease,7,UN,Healed,Syrian
+F, 1-5,Respiratory Disease,2,UN,Healed,Syrian
+M, 1-5,Respiratory Disease,4,UN,Healed,Syrian
+F, 1-5,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,5,UN,Healed,Syrian
+M, 1-5,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,9,UN,Healed,Syrian
+M, 1-5,Respiratory Disease,3,UN,Healed,Syrian
+M, 1-5,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+M, 6-10,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+F, 6-10,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+F, 6-10,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+M, 6-10,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+M, 11-15,Respiratory Disease,4,INSURANCE,Healed,Lebanese
+M, 11-15,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 16-20,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+M,newborn,Respiratory Disease,6,INSURANCE,Healed,Lebanese
+F,newborn,Respiratory Disease,10,UN,Healed,Syrian
+M,newborn,Respiratory Disease,8,INSURANCE,Healed,Lebanese
+M,newborn,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+M,newborn,Respiratory Disease,6,UN,Healed,Syrian
+M,newborn,Respiratory Disease,4,INSURANCE,Healed,Lebanese
+M,newborn,Respiratory Disease,7,UN,Healed,Syrian
+M,newborn,Respiratory Disease,5,UN,Healed,Syrian
+F,newborn,Respiratory Disease,2,UN,Healed,Syrian
+M,newborn,Respiratory Disease,7,INSURANCE,Healed,Lebanese
+M,newborn,Respiratory Disease,12,INSURANCE,Healed,Lebanese
+M,newborn,Respiratory Disease,7,UN,Healed,Syrian
+M,newborn,Respiratory Disease,4,UN,Healed,Syrian
+F,newborn,Respiratory Disease,4,UN,Healed,Syrian
+M,newborn,Respiratory Disease,7,UN,Healed,Syrian
+F,newborn,Respiratory Disease,11,UN,Healed,Syrian
+F,newborn,Respiratory Disease,3,UN,Healed,Syrian
+M,newborn,Respiratory Disease,6,UN,Healed,Syrian
+M,newborn,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+M,newborn,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+M,newborn,Respiratory Disease,4,INSURANCE,Healed,Lebanese
+M,newborn,Respiratory Disease,10,UN,Healed,Syrian
+M,newborn,Respiratory Disease,4,UN,Healed,Syrian
+M,newborn,Respiratory Disease,3,UN,Healed,Syrian
+F,newborn,Respiratory Disease,5,UN,Healed,Syrian
+M,newborn,Respiratory Disease,2,UN,Healed,Syrian
+M,newborn,Respiratory Disease,3,UN,Healed,Syrian
+M,newborn,Respiratory Disease,6,UN,Healed,Syrian
+M,newborn,Respiratory Disease,5,UN,Healed,Syrian
+M,newborn,Respiratory Disease,23,UN,sick,Syrian
+M,newborn,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+M,newborn,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+M,newborn,Respiratory Disease,4,UN,Healed,Syrian
+M,newborn,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+M,newborn,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+M,newborn,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,3,UN,Healed,Syrian
+M, 1-5,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,5,UN,Healed,Syrian
+M, 1-5,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,4,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,3,UN,Healed,Syrian
+M, 1-5,Respiratory Disease,2,UN,Healed,Syrian
+F, 6-10,Respiratory Disease,4,UN,Healed,Syrian
+M, 6-10,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+M, 6-10,Respiratory Disease,4,INSURANCE,Healed,Lebanese
+F, 6-10,Respiratory Disease,5,UN,Healed,Syrian
+F, 6-10,Respiratory Disease,4,INSURANCE,Healed,Lebanese
+M, 6-10,Respiratory Disease,6,INSURANCE,Healed,Lebanese
+F, 11-15,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+M, 11-15,Respiratory Disease,6,INSURANCE,Healed,Lebanese
+M, 11-15,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+F, 11-15,Respiratory Disease,5,INSURANCE,Healed,Lebanese
+F, 11-15,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+F, 11-15,Respiratory Disease,2,UN,Healed,Syrian
+F, 11-15,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+F, 21-30,Respiratory Disease,5,INSURANCE,Healed,Lebanese
+F, 21-30,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 21-30,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+F, 21-30,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+M, 6-10,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+M, 21-30,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F,newborn,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,4,UN,Healed,Syrian
+F, 1-5,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+F, 6-10,Respiratory Disease,5,UN,Healed,Syrian
+M, 6-10,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 6-10,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+F, 6-10,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 6-10,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+F, 6-10,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 6-10,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+F, 6-10,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 6-10,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 6-10,Respiratory Disease,3,UN,Healed,Syrian
+M, 11-15,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 11-15,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 11-15,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+M, 11-15,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+F, 11-15,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 16-20,Respiratory Disease,5,INSURANCE,Healed,Lebanese
+M, 16-20,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+M, 21-30,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,1,INSURANCE,Healed,Lebanese
+F, 6-10,Digestive Disease,17,UN,Healed,Syrian
+F, 1-5,Pain,2,UN,Healed,Syrian
+F, 6-10,Pain,2,INSURANCE,Healed,Lebanese
+M, 6-10,Pain,2,INSURANCE,Healed,Lebanese
+M, 6-10,Pain,8,INSURANCE,Healed,Lebanese
+M, 11-15,Pain,2,INSURANCE,Healed,Lebanese
+M, 11-15,Pain,1,INSURANCE,Healed,Lebanese
+F, 11-15,Pain,1,INSURANCE,Healed,Lebanese
+F, 16-20,Pain,2,INSURANCE,Healed,Lebanese
+F, 21-30,Pain,3,INSURANCE,Healed,Lebanese
+F, 30-40,Pain,2,INSURANCE,Healed,Lebanese
+F, 1-5,Pain,7,UN,Healed,Syrian
+F, 1-5,Pain,3,INSURANCE,Healed,Lebanese
+M, 1-5,Pain,4,UN,Healed,Syrian
+M, 1-5,Pain,2,INSURANCE,Healed,Lebanese
+M, 6-10,Pain,1,INSURANCE,Healed,Lebanese
+M, 6-10,Pain,2,INSURANCE,Healed,Lebanese
+M, 6-10,Pain,1,INSURANCE,Healed,Lebanese
+M, 6-10,Pain,2,INSURANCE,Healed,Lebanese
+F, 6-10,Pain,7,UN,Healed,Syrian
+M, 11-15,Pain,1,INSURANCE,Healed,Lebanese
+M, 11-15,Pain,1,INSURANCE,Healed,Lebanese
+M, 11-15,Pain,5,INSURANCE,Healed,Lebanese
+M, 11-15,Pain,2,INSURANCE,Healed,Lebanese
+F, 16-20,Pain,5,INSURANCE,Healed,Lebanese
+M, 16-20,Pain,6,INSURANCE,Healed,Lebanese
+F, 16-20,Pain,1,INSURANCE,Healed,Lebanese
+F, 16-20,Pain,1,INSURANCE,Healed,Lebanese
+M, 21-30,Pain,1,INSURANCE,Healed,Lebanese
+M, 21-30,Pain,1,INSURANCE,Healed,Lebanese
+F, 21-30,Pain,2,INSURANCE,Healed,Lebanese
+F, 21-30,Pain,1,INSURANCE,Healed,Lebanese
+F, 30-40,Pain,1,INSURANCE,Healed,Lebanese
+M, 30-40,Pain,2,INSURANCE,Healed,Lebanese
+M, 30-40,Pain,3,INSURANCE,Healed,Lebanese
+F,newborn,Pain,3,INSURANCE,Healed,Lebanese
+M,newborn,Pain,5,INSURANCE,Healed,Lebanese
+F, 1-5,Pain,9,UN,Healed,Syrian
+F, 1-5,Pain,4,UN,Healed,Syrian
+F, 1-5,Pain,3,INSURANCE,Healed,Lebanese
+F, 1-5,Pain,1,INSURANCE,Healed,Lebanese
+M, 1-5,Pain,3,INSURANCE,Healed,Lebanese
+M, 1-5,Pain,6,UN,Healed,Syrian
+M, 1-5,Pain,2,INSURANCE,Healed,Lebanese
+M, 1-5,Pain,1,INSURANCE,Healed,Lebanese
+M, 1-5,Pain,2,INSURANCE,Healed,Lebanese
+F, 1-5,Pain,3,INSURANCE,Healed,Lebanese
+F, 1-5,Pain,2,INSURANCE,Healed,Lebanese
+M, 1-5,Pain,3,INSURANCE,Healed,Lebanese
+M, 1-5,Pain,6,UN,Healed,Syrian
+M, 6-10,Pain,6,UN,Healed,Syrian
+M, 6-10,Pain,1,INSURANCE,Healed,Lebanese
+F, 6-10,Pain,3,UN,Healed,Syrian
+F, 6-10,Pain,2,INSURANCE,Healed,Lebanese
+M, 6-10,Pain,2,INSURANCE,Healed,Lebanese
+F, 6-10,Pain,2,INSURANCE,Healed,Lebanese
+M, 6-10,Pain,1,UN,Healed,Syrian
+F, 6-10,Pain,1,INSURANCE,Healed,Lebanese
+F, 6-10,Pain,1,INSURANCE,Healed,Lebanese
+M, 6-10,Pain,1,INSURANCE,Healed,Lebanese
+M, 6-10,Pain,1,INSURANCE,Healed,Lebanese
+M, 6-10,Pain,1,INSURANCE,Healed,Lebanese
+M, 6-10,Pain,1,INSURANCE,Healed,Lebanese
+F, 6-10,Pain,1,INSURANCE,Healed,Lebanese
+M, 6-10,Pain,1,INSURANCE,Healed,Lebanese
+M, 6-10,Pain,1,UN,Healed,Syrian
+M, 6-10,Pain,4,INSURANCE,Healed,Lebanese
+M, 6-10,Pain,3,UN,Healed,Syrian
+F, 11-15,Pain,3,INSURANCE,Healed,Lebanese
+M, 11-15,Pain,3,INSURANCE,Healed,Lebanese
+F, 11-15,Pain,1,INSURANCE,Healed,Lebanese
+F, 11-15,Pain,2,INSURANCE,Healed,Lebanese
+M, 11-15,Pain,2,INSURANCE,Healed,Lebanese
+M, 11-15,Pain,2,INSURANCE,Healed,Lebanese
+F, 11-15,Pain,3,INSURANCE,Healed,Lebanese
+F, 11-15,Pain,1,INSURANCE,Healed,Lebanese
+M, 11-15,Pain,1,INSURANCE,Healed,Lebanese
+F, 11-15,Pain,2,INSURANCE,Healed,Lebanese
+F, 11-15,Pain,1,INSURANCE,Healed,Lebanese
+M, 11-15,Pain,1,INSURANCE,Healed,Lebanese
+F, 16-20,Pain,2,INSURANCE,Healed,Lebanese
+F, 16-20,Pain,2,INSURANCE,Healed,Lebanese
+M, 16-20,Pain,3,INSURANCE,Healed,Lebanese
+F, 16-20,Pain,1,INSURANCE,Healed,Lebanese
+F, 16-20,Pain,3,INSURANCE,Healed,Lebanese
+F, 16-20,Pain,2,INSURANCE,Healed,Lebanese
+F, 21-30,Pain,3,INSURANCE,Healed,Lebanese
+F, 21-30,Pain,1,INSURANCE,Healed,Lebanese
+F, 21-30,Pain,2,INSURANCE,Healed,Lebanese
+F, 21-30,Pain,1,INSURANCE,Healed,Lebanese
+M,newborn,Digestive Disease,5,INSURANCE,Healed,Lebanese
+M,newborn,Digestive Disease,4,INSURANCE,Healed,Lebanese
+F,newborn,Digestive Disease,14,UN,Healed,Syrian
+M,newborn,Digestive Disease,3,UN,Healed,Syrian
+M,newborn,Digestive Disease,2,UN,Healed,Syrian
+F,newborn,Digestive Disease,27,UN,sick,Syrian
+F,newborn,Digestive Disease,6,UN,Healed,Syrian
+M,newborn,Digestive Disease,3,UN,Healed,Syrian
+M,newborn,Digestive Disease,3,UN,Healed,Syrian
+M,newborn,Digestive Disease,8,UN,Healed,Syrian
+M,newborn,Digestive Disease,2,UN,Healed,Syrian
+M,newborn,Digestive Disease,1,UN,Healed,Syrian
+M,newborn,Digestive Disease,3,UN,Healed,Syrian
+M,newborn,Digestive Disease,2,PRIVATE,Healed,Lebanese
+M,newborn,Digestive Disease,1,INSURANCE,Healed,Lebanese
+F, 1-5,Digestive Disease,5,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,3,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,2,INSURANCE,Healed,Lebanese
+F, 1-5,Digestive Disease,4,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,1,UN,sick,Syrian
+F, 1-5,Digestive Disease,2,UN,Healed,Syrian
+F, 1-5,Digestive Disease,5,UN,Healed,Syrian
+F, 1-5,Digestive Disease,1,INSURANCE,Healed,Lebanese
+F, 1-5,Digestive Disease,3,UN,Healed,Syrian
+M, 1-5,Digestive Disease,4,UN,Healed,Syrian
+F, 1-5,Digestive Disease,1,UN,Healed,Syrian
+M, 1-5,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,1,INSURANCE,Healed,Lebanese
+F, 1-5,Digestive Disease,3,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,3,INSURANCE,Healed,Lebanese
+F, 1-5,Digestive Disease,1,INSURANCE,Healed,Lebanese
+F, 1-5,Digestive Disease,1,INSURANCE,Healed,Lebanese
+F, 1-5,Digestive Disease,3,UN,Healed,Syrian
+M, 1-5,Digestive Disease,3,INSURANCE,Healed,Lebanese
+F, 1-5,Digestive Disease,5,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,3,UN,Healed,Syrian
+F, 1-5,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,5,INSURANCE,Healed,Lebanese
+F, 1-5,Digestive Disease,3,UN,Healed,Syrian
+F, 1-5,Digestive Disease,2,UN,Healed,Syrian
+F, 1-5,Digestive Disease,3,INSURANCE,Healed,Lebanese
+F, 1-5,Digestive Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,1,UN,Healed,Syrian
+M, 1-5,Digestive Disease,1,UN,Healed,Syrian
+M, 1-5,Digestive Disease,1,UN,Healed,Syrian
+F, 1-5,Digestive Disease,1,UN,Healed,Syrian
+M, 1-5,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,2,UN,Healed,Syrian
+M, 1-5,Digestive Disease,1,INSURANCE,Healed,Lebanese
+F, 1-5,Digestive Disease,3,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,4,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,2,INSURANCE,Healed,Lebanese
+F, 1-5,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Digestive Disease,2,UN,Healed,Syrian
+F, 1-5,Digestive Disease,4,INSURANCE,Healed,Lebanese
+F, 1-5,Digestive Disease,3,UN,Healed,Syrian
+M, 1-5,Digestive Disease,3,INSURANCE,Healed,Lebanese
+F, 1-5,Digestive Disease,2,UN,Healed,Syrian
+M, 6-10,Digestive Disease,1,INSURANCE,Healed,Lebanese
+F, 6-10,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M, 6-10,Digestive Disease,3,INSURANCE,Healed,Lebanese
+M, 6-10,Digestive Disease,2,INSURANCE,Healed,Lebanese
+F, 6-10,Digestive Disease,3,INSURANCE,Healed,Lebanese
+M, 6-10,Digestive Disease,3,INSURANCE,Healed,Lebanese
+F, 6-10,Digestive Disease,9,UN,Healed,Syrian
+F, 6-10,Digestive Disease,3,UN,Healed,Syrian
+F, 6-10,Digestive Disease,3,INSURANCE,Healed,Lebanese
+M, 6-10,Digestive Disease,3,UN,Healed,Syrian
+M, 6-10,Digestive Disease,1,INSURANCE,Healed,Lebanese
+M, 6-10,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M, 6-10,Digestive Disease,1,INSURANCE,Healed,Lebanese
+M, 6-10,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M, 6-10,Digestive Disease,1,INSURANCE,Healed,Lebanese
+F, 6-10,Digestive Disease,3,INSURANCE,Healed,Lebanese
+M, 6-10,Digestive Disease,2,UN,Healed,Syrian
+F, 11-15,Digestive Disease,1,INSURANCE,Healed,Lebanese
+F, 11-15,Digestive Disease,1,INSURANCE,Healed,Lebanese
+M, 11-15,Digestive Disease,1,INSURANCE,Healed,Lebanese
+F, 11-15,Digestive Disease,1,INSURANCE,Healed,Lebanese
+F, 11-15,Digestive Disease,1,INSURANCE,Healed,Lebanese
+M, 11-15,Digestive Disease,1,INSURANCE,Healed,Lebanese
+F, 11-15,Digestive Disease,1,INSURANCE,Healed,Lebanese
+F, 11-15,Digestive Disease,3,INSURANCE,Healed,Lebanese
+M, 11-15,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M, 11-15,Digestive Disease,1,INSURANCE,Healed,Lebanese
+F, 11-15,Digestive Disease,2,INSURANCE,Healed,Lebanese
+M, 16-20,Digestive Disease,4,INSURANCE,Healed,Lebanese
+F, 16-20,Digestive Disease,1,INSURANCE,Healed,Lebanese
+F, 21-30,Digestive Disease,2,INSURANCE,Healed,Lebanese
+F, 30-40,Digestive Disease,1,INSURANCE,Healed,Lebanese
+M, 30-40,Digestive Disease,1,INSURANCE,Healed,Lebanese
+M,newborn,Pain,16,UN,Healed,Syrian
+M, 1-5,Pain,2,UN,Healed,Syrian
+M, 1-5,Pain,1,UN,Healed,Syrian
+M, 1-5,Pain,3,UN,Healed,Syrian
+M, 1-5,Skin Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Skin Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Skin Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Skin Disease,1,INSURANCE,Healed,Lebanese
+M, 6-10,Skin Disease,1,INSURANCE,Healed,Lebanese
+F, 11-15,Skin Disease,1,INSURANCE,Healed,Lebanese
+M, 11-15,Skin Disease,1,INSURANCE,Healed,Lebanese
+F, 1-5,Injury,3,INSURANCE,Healed,Lebanese
+M, 1-5,Pain,2,INSURANCE,Healed,Lebanese
+M, 11-15,Pain,4,UN,Healed,Syrian
+M, 21-30,Pain,1,INSURANCE,Healed,Lebanese
+M, 1-5,Pain,1,UN,Healed,Syrian
+M, 16-20,Pain,2,INSURANCE,Healed,Lebanese
+F, 16-20,Pain,1,INSURANCE,Healed,Lebanese
+F, 21-30,Pain,1,INSURANCE,Healed,Lebanese
+F, 21-30,Pain,4,PRIVATE,Healed,Lebanese
+M,newborn,Fever,10,INSURANCE,Healed,Lebanese
+F,newborn,Fever,6,INSURANCE,Healed,Lebanese
+F,newborn,Fever,6,INSURANCE,Healed,Lebanese
+M,newborn,Fever,6,UN,Healed,Syrian
+M,newborn,Fever,6,INSURANCE,Healed,Lebanese
+F,newborn,Fever,3,INSURANCE,Healed,Lebanese
+F,newborn,Fever,5,UN,Healed,Syrian
+M,newborn,Fever,4,INSURANCE,Healed,Lebanese
+F,newborn,Fever,32,UN,Healed,Syrian
+F,newborn,Fever,3,INSURANCE,Healed,Lebanese
+M,newborn,Fever,23,INSURANCE,Healed,Lebanese
+F,newborn,Fever,2,INSURANCE,Healed,Lebanese
+F,newborn,Fever,3,INSURANCE,Healed,Lebanese
+F,newborn,Fever,3,INSURANCE,Healed,Lebanese
+F,newborn,Fever,3,INSURANCE,Healed,Lebanese
+M,newborn,Fever,2,UN,Healed,Syrian
+M,newborn,Fever,2,INSURANCE,Healed,Lebanese
+M,newborn,Fever,3,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,4,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,1,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,4,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,2,UN,Healed,Syrian
+M, 1-5,Fever,1,PRIVATE,Healed,Lebanese
+M, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,5,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,1,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,4,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,2,UN,Healed,Syrian
+M, 1-5,Fever,6,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,1,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,1,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,4,UN,Healed,Syrian
+M, 1-5,Fever,4,UN,Healed,Syrian
+F, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,7,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,4,UN,Healed,Syrian
+M, 6-10,Fever,2,UN,sick,Syrian
+F, 6-10,Fever,2,INSURANCE,Healed,Lebanese
+M, 6-10,Fever,3,INSURANCE,Healed,Lebanese
+F, 6-10,Fever,2,INSURANCE,Healed,Lebanese
+F, 6-10,Fever,6,UN,Healed,Syrian
+M, 6-10,Fever,3,INSURANCE,Healed,Lebanese
+F, 6-10,Fever,5,INSURANCE,Healed,Lebanese
+F, 6-10,Fever,2,INSURANCE,Healed,Lebanese
+F, 6-10,Fever,1,INSURANCE,Healed,Lebanese
+M, 11-15,Fever,4,INSURANCE,Healed,Lebanese
+M, 11-15,Fever,2,INSURANCE,Healed,Lebanese
+M, 11-15,Fever,3,INSURANCE,Healed,Lebanese
+F, 16-20,Fever,13,INSURANCE,Healed,Lebanese
+F,newborn,Fever,5,UN,Healed,Syrian
+F,newborn,Fever,2,UN,Healed,Syrian
+F, 1-5,Fever,4,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,5,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,1,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,6,UN,Healed,Syrian
+F, 1-5,Fever,5,UN,Healed,Syrian
+M, 1-5,Fever,6,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,5,UN,Healed,Syrian
+F, 1-5,Fever,4,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,2,UN,Healed,Syrian
+M, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+M, 6-10,Fever,2,INSURANCE,Healed,Lebanese
+M, 6-10,Fever,2,INSURANCE,Healed,Lebanese
+F,newborn,Fever,3,UN,Healed,Syrian
+M,newborn,Fever,4,INSURANCE,Healed,Lebanese
+M,newborn,Fever,6,UN,Healed,Syrian
+M,newborn,Fever,2,UN,Healed,Syrian
+M,newborn,Fever,5,INSURANCE,Healed,Lebanese
+M,newborn,Fever,4,INSURANCE,Healed,Lebanese
+M,newborn,Fever,6,INSURANCE,Healed,Lebanese
+F,newborn,Fever,3,INSURANCE,Healed,Lebanese
+M,newborn,Fever,2,INSURANCE,Healed,Lebanese
+F,newborn,Fever,3,INSURANCE,Healed,Lebanese
+M,newborn,Fever,1,UN,sick,Syrian
+M,newborn,Fever,6,UN,Healed,Syrian
+F,newborn,Fever,3,INSURANCE,Healed,Lebanese
+M,newborn,Fever,5,UN,Healed,Syrian
+F,newborn,Fever,4,UN,Healed,Syrian
+M,newborn,Fever,7,UN,Healed,Syrian
+F,newborn,Fever,2,INSURANCE,Healed,Lebanese
+M,newborn,Fever,5,UN,Healed,Syrian
+F,newborn,Fever,3,INSURANCE,Healed,Lebanese
+F,newborn,Fever,1,INSURANCE,Healed,Lebanese
+M,newborn,Fever,5,INSURANCE,Healed,Lebanese
+M,newborn,Fever,4,UN,Healed,Syrian
+M,newborn,Fever,5,UN,Healed,Syrian
+F,newborn,Fever,2,UN,Healed,Syrian
+M,newborn,Fever,2,INSURANCE,Healed,Lebanese
+M,newborn,Fever,5,INSURANCE,Healed,Lebanese
+F,newborn,Fever,1,INSURANCE,Healed,Lebanese
+F,newborn,Fever,3,UN,Healed,Syrian
+F,newborn,Fever,3,UN,Healed,Syrian
+F,newborn,Fever,3,INSURANCE,Healed,Lebanese
+M,newborn,Fever,1,UN,Healed,Syrian
+M,newborn,Fever,4,UN,Healed,Syrian
+F,newborn,Fever,5,INSURANCE,Healed,Lebanese
+M,newborn,Fever,2,UN,Healed,Syrian
+F,newborn,Fever,1,INSURANCE,Healed,Lebanese
+F,newborn,Fever,1,UN,sick,Syrian
+F,newborn,Fever,2,INSURANCE,Healed,Lebanese
+F,newborn,Fever,2,INSURANCE,Healed,Lebanese
+F,newborn,Fever,6,INSURANCE,Healed,Lebanese
+F,newborn,Fever,3,UN,Healed,Syrian
+M,newborn,Fever,4,INSURANCE,Healed,Lebanese
+M,newborn,Fever,4,INSURANCE,Healed,Lebanese
+F,newborn,Fever,6,INSURANCE,Healed,Lebanese
+F,newborn,Fever,2,UN,Healed,Syrian
+M,newborn,Fever,16,UN,sick,Syrian
+M,newborn,Fever,3,INSURANCE,Healed,Lebanese
+F,newborn,Fever,2,INSURANCE,Healed,Lebanese
+M,newborn,Fever,3,UN,Healed,Syrian
+F,newborn,Fever,2,UN,Healed,Syrian
+F,newborn,Fever,2,INSURANCE,Healed,Lebanese
+M,newborn,Fever,4,UN,Healed,Syrian
+M,newborn,Fever,4,INSURANCE,Healed,Lebanese
+M,newborn,Fever,3,UN,Healed,Syrian
+M,newborn,Fever,3,INSURANCE,Healed,Lebanese
+F,newborn,Fever,2,INSURANCE,Healed,Lebanese
+F,newborn,Fever,2,INSURANCE,Healed,Lebanese
+M,newborn,Fever,2,UN,Healed,Syrian
+F,newborn,Fever,2,INSURANCE,Healed,Lebanese
+M,newborn,Fever,2,UN,Healed,Syrian
+M,newborn,Fever,2,INSURANCE,Healed,Lebanese
+M,newborn,Fever,11,UN,Healed,Syrian
+F,newborn,Fever,1,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,3,UN,Healed,Syrian
+F, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,1,UN,Healed,Syrian
+M, 1-5,Fever,1,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,1,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,4,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,5,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,4,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,2,UN,Healed,Syrian
+M, 1-5,Fever,4,UN,Healed,Syrian
+M, 1-5,Fever,2,UN,Healed,Syrian
+M, 1-5,Fever,2,PRIVATE,Healed,Lebanese
+M, 1-5,Fever,1,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,13,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,3,UN,Healed,Syrian
+M, 1-5,Fever,2,UN,Healed,Syrian
+M, 1-5,Fever,4,UN,Healed,Syrian
+F, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,7,UN,Healed,Syrian
+F, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,1,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,3,UN,Healed,Syrian
+M, 1-5,Fever,3,UN,Healed,Syrian
+F, 1-5,Fever,1,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,4,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,4,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,5,UN,Healed,Syrian
+F, 1-5,Fever,5,UN,Healed,Syrian
+M, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,3,UN,Healed,Syrian
+F, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,3,INSURANCE,sick,Lebanese
+F, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,5,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,1,UN,Healed,Syrian
+M, 1-5,Fever,2,PRIVATE,Healed,Lebanese
+F, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,7,UN,Healed,Syrian
+F, 1-5,Fever,5,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,3,UN,Healed,Syrian
+M, 1-5,Fever,4,UN,Healed,Syrian
+F, 1-5,Fever,4,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,1,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,1,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,2,UN,Healed,Syrian
+F, 1-5,Fever,4,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,2,UN,Healed,Syrian
+F, 1-5,Fever,1,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,3,UN,Healed,Syrian
+M, 1-5,Fever,5,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,4,UN,Healed,Syrian
+F, 1-5,Fever,5,UN,Healed,Syrian
+F, 1-5,Fever,3,UN,Healed,Syrian
+M, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,5,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,4,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,4,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,5,UN,Healed,Syrian
+F, 1-5,Fever,4,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,4,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,5,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,4,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,18,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,4,UN,Healed,Syrian
+M, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,6,UN,Healed,Syrian
+F, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,3,UN,Healed,Syrian
+F, 1-5,Fever,1,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,3,UN,Healed,Syrian
+M, 1-5,Fever,5,UN,Healed,Syrian
+F, 1-5,Fever,3,UN,Healed,Syrian
+F, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,2,UN,Healed,Syrian
+F, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,1,UN,Healed,Syrian
+M, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,3,UN,Healed,Syrian
+M, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,2,UN,Healed,Syrian
+F, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,1,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,4,UN,Healed,Syrian
+M, 1-5,Fever,1,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,1,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,3,PRIVATE,Healed,Lebanese
+M, 1-5,Fever,4,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,3,UN,Healed,Syrian
+M, 1-5,Fever,4,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,1,UN,Healed,Syrian
+M, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,4,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,1,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,1,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,1,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,4,UN,Healed,Syrian
+M, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,5,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,4,UN,Healed,Syrian
+M, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,5,UN,Healed,Syrian
+M, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,4,UN,Healed,Syrian
+F, 1-5,Fever,2,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,3,UN,Healed,Syrian
+M, 1-5,Fever,4,UN,Healed,Syrian
+F, 1-5,Fever,1,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,3,UN,Healed,Syrian
+M, 1-5,Fever,7,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,3,INSURANCE,Healed,Lebanese
+F, 1-5,Fever,2,UN,Healed,Syrian
+F, 1-5,Fever,7,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,7,INSURANCE,Healed,Lebanese
+M, 1-5,Fever,4,INSURANCE,Healed,Lebanese
+F, 6-10,Fever,5,INSURANCE,Healed,Lebanese
+M, 6-10,Fever,2,INSURANCE,Healed,Lebanese
+M, 6-10,Fever,4,UN,Healed,Syrian
+F, 6-10,Fever,6,INSURANCE,Healed,Lebanese
+M, 6-10,Fever,3,UN,Healed,Syrian
+F, 6-10,Fever,7,UN,Healed,Syrian
+M, 6-10,Fever,6,INSURANCE,Healed,Lebanese
+F, 6-10,Fever,3,INSURANCE,Healed,Lebanese
+M, 6-10,Fever,3,INSURANCE,Healed,Lebanese
+M, 6-10,Fever,4,INSURANCE,Healed,Lebanese
+M, 6-10,Fever,3,INSURANCE,Healed,Lebanese
+M, 6-10,Fever,1,INSURANCE,Healed,Lebanese
+F, 6-10,Fever,3,INSURANCE,Healed,Lebanese
+F, 6-10,Fever,7,INSURANCE,Healed,Lebanese
+F, 6-10,Fever,3,INSURANCE,Healed,Lebanese
+F, 6-10,Fever,35,UN,Healed,Syrian
+F, 6-10,Fever,2,INSURANCE,Healed,Lebanese
+M, 6-10,Fever,4,INSURANCE,Healed,Lebanese
+M, 6-10,Fever,10,UN,sick,Syrian
+M, 6-10,Fever,2,UN,Healed,Syrian
+F, 6-10,Fever,2,INSURANCE,Healed,Lebanese
+M, 6-10,Fever,3,INSURANCE,Healed,Lebanese
+M, 6-10,Fever,2,INSURANCE,Healed,Lebanese
+M, 6-10,Fever,3,INSURANCE,Healed,Lebanese
+M, 6-10,Fever,3,UN,Healed,Syrian
+F, 6-10,Fever,2,INSURANCE,Healed,Lebanese
+F, 6-10,Fever,1,INSURANCE,Healed,Lebanese
+F, 6-10,Fever,2,INSURANCE,Healed,Lebanese
+M, 6-10,Fever,10,UN,Healed,Syrian
+F, 6-10,Fever,4,INSURANCE,Healed,Lebanese
+M, 11-15,Fever,1,INSURANCE,Healed,Lebanese
+F, 11-15,Fever,3,INSURANCE,Healed,Lebanese
+F, 11-15,Fever,4,INSURANCE,Healed,Lebanese
+F, 11-15,Fever,3,INSURANCE,Healed,Lebanese
+M, 11-15,Fever,2,INSURANCE,Healed,Lebanese
+F, 11-15,Fever,2,INSURANCE,Healed,Lebanese
+F, 11-15,Fever,1,INSURANCE,Healed,Lebanese
+M, 11-15,Fever,3,UN,Healed,Syrian
+F, 11-15,Fever,2,INSURANCE,Healed,Lebanese
+F, 11-15,Fever,11,INSURANCE,Healed,Lebanese
+M, 11-15,Fever,3,INSURANCE,Healed,Lebanese
+M, 11-15,Fever,2,INSURANCE,Healed,Lebanese
+M, 11-15,Fever,2,INSURANCE,Healed,Lebanese
+M, 11-15,Fever,4,INSURANCE,Healed,Lebanese
+M, 11-15,Fever,2,INSURANCE,Healed,Lebanese
+F, 11-15,Fever,2,INSURANCE,Healed,Lebanese
+M, 11-15,Fever,3,INSURANCE,Healed,Lebanese
+M, 16-20,Fever,5,INSURANCE,Healed,Lebanese
+M, 16-20,Fever,4,INSURANCE,Healed,Lebanese
+F, 16-20,Fever,3,INSURANCE,Healed,Lebanese
+F, 16-20,Fever,3,INSURANCE,Healed,Lebanese
+F, 16-20,Fever,1,INSURANCE,Healed,Lebanese
+M, 16-20,Fever,5,INSURANCE,Healed,Lebanese
+F, 16-20,Fever,3,INSURANCE,Healed,Lebanese
+M, 16-20,Fever,5,INSURANCE,Healed,Lebanese
+M, 21-30,Fever,2,PRIVATE,Healed,Lebanese
+M, 21-30,Fever,3,INSURANCE,Healed,Lebanese
+F, 21-30,Fever,3,PRIVATE,Healed,Lebanese
+M, 21-30,Fever,4,PRIVATE,Healed,Lebanese
+F, 21-30,Fever,2,INSURANCE,Healed,Lebanese
+M, 21-30,Fever,4,INSURANCE,Healed,Lebanese
+F, 21-30,Fever,4,INSURANCE,Healed,Lebanese
+F, 21-30,Fever,1,INSURANCE,Healed,Lebanese
+M, 6-10,Pain,1,INSURANCE,Healed,Lebanese
+M, 11-15,Pain,2,INSURANCE,Healed,Lebanese
+M, 16-20,Pain,3,INSURANCE,Healed,Lebanese
+F, 21-30,Pain,1,INSURANCE,Healed,Lebanese
+F, 21-30,Pain,1,PRIVATE,Healed,Lebanese
+F, 30-40,Pain,2,UN,Healed,Syrian
+M,newborn,Pain,15,UN,Healed,Syrian
+M,newborn,Pain,1,INSURANCE,Healed,Lebanese
+F, 11-15,Pain,2,INSURANCE,Healed,Lebanese
+F, 11-15,Pain,2,INSURANCE,Healed,Lebanese
+F, 11-15,Pain,1,INSURANCE,Healed,Lebanese
+M, 21-30,Pain,1,INSURANCE,Healed,Lebanese
+M,newborn,Pain,2,UN,Healed,Syrian
+M, 1-5,Pain,1,INSURANCE,Healed,Lebanese
+F, 6-10,Pain,1,INSURANCE,Healed,Lebanese
+M, 11-15,Pain,1,INSURANCE,Healed,Lebanese
+M, 11-15,Pain,2,INSURANCE,Healed,Lebanese
+M, 11-15,Pain,2,INSURANCE,Healed,Lebanese
+F, 16-20,Pain,1,INSURANCE,Healed,Lebanese
+F, 1-5,Pain,4,UN,Healed,Syrian
+M, 1-5,Pain,5,UN,Healed,Syrian
+F, 6-10,Pain,3,UN,Healed,Syrian
+M, 11-15,Pain,1,PRIVATE,Healed,Lebanese
+F,newborn,Pain,2,UN,Healed,Syrian
+F, 1-5,Pain,4,UN,Healed,Syrian
+F, 1-5,Pain,1,UN,Healed,Syrian
+F,newborn,Pain,3,UN,Healed,Syrian
+F, 1-5,Pain,2,UN,Healed,Syrian
+F, 1-5,Pain,5,UN,Healed,Syrian
+F, 16-20,Pain,1,INSURANCE,Healed,Lebanese
+M, 1-5,Pain,2,INSURANCE,Healed,Lebanese
+M, 1-5,Pain,2,UN,Healed,Syrian
+F, 6-10,Pain,5,UN,Healed,Syrian
+M, 6-10,Pain,4,UN,Healed,Syrian
+M, 6-10,Pain,5,UN,Healed,Syrian
+F, 11-15,Pain,4,UN,Healed,Syrian
+M, 11-15,Pain,4,INSURANCE,Healed,Lebanese
+F, 11-15,Pain,4,UN,Healed,Syrian
+F, 21-30,Pain,6,UN,Healed,Syrian
+M, 30-40,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+M, 6-10,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 30-40,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 30-40,Respiratory Disease,6,UN,Healed,Syrian
+M, 30-40,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 11-15,Respiratory Disease,1,UN,Healed,Syrian
+M,newborn,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,4,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,4,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,3,UN,Healed,Syrian
+M, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,4,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+F, 6-10,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 21-30,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,11,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 6-10,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 11-15,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 21-30,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+M, 30-40,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+M, 11-15,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+F, 21-30,Respiratory Disease,5,INSURANCE,Healed,Lebanese
+M,newborn,Respiratory Disease,5,UN,Healed,Syrian
+F,newborn,Respiratory Disease,6,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,2,PRIVATE,Healed,Lebanese
+M, 1-5,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,4,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,6,UN,Healed,Syrian
+M, 1-5,Respiratory Disease,4,INSURANCE,Healed,Lebanese
+F, 6-10,Respiratory Disease,4,INSURANCE,Healed,Lebanese
+F, 16-20,Respiratory Disease,4,INSURANCE,Healed,Lebanese
+F,newborn,Respiratory Disease,8,UN,Healed,Syrian
+F, 1-5,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,9,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,1,INSURANCE,sick,Lebanese
+M, 1-5,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,11,INSURANCE,sick,Lebanese
+F, 1-5,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,6,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+F, 6-10,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+F,newborn,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F,newborn,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M,newborn,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+M,newborn,Respiratory Disease,4,INSURANCE,Healed,Lebanese
+M,newborn,Respiratory Disease,3,UN,Healed,Syrian
+M,newborn,Respiratory Disease,4,UN,sick,Syrian
+F,newborn,Respiratory Disease,4,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,5,UN,Healed,Syrian
+M, 1-5,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+F, 16-20,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 16-20,Respiratory Disease,1,PRIVATE,Healed,Lebanese
+F, 16-20,Respiratory Disease,1,PRIVATE,Healed,Lebanese
+M, 21-30,Respiratory Disease,1,PRIVATE,Healed,Lebanese
+F, 21-30,Respiratory Disease,1,PRIVATE,Healed,Lebanese
+F, 30-40,Respiratory Disease,1,PRIVATE,Healed,Lebanese
+F, 16-20,Respiratory Disease,1,PRIVATE,Healed,Lebanese
+M, 16-20,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 16-20,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 16-20,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 16-20,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 21-30,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 21-30,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 21-30,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 21-30,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 21-30,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 30-40,Respiratory Disease,1,PRIVATE,Healed,Lebanese
+M, 30-40,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 30-40,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,1,PRIVATE,Healed,Lebanese
+M, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 6-10,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 6-10,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 6-10,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 6-10,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 6-10,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 6-10,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 6-10,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M, 6-10,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+F, 6-10,Respiratory Disease,1,INSURANCE,Healed,Lebanese
+M,newborn,Respiratory Disease,5,INSURANCE,Healed,Lebanese
+M,newborn,Respiratory Disease,4,UN,Healed,Syrian
+M, 1-5,Respiratory Disease,3,UN,Healed,Syrian
+M, 1-5,Respiratory Disease,3,INSURANCE,Healed,Lebanese
+F, 1-5,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+M, 11-15,Respiratory Disease,4,UN,Healed,Syrian
+M, 1-5,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+M,newborn,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+M, 1-5,Surgery,1,UN,Healed,Syrian
+F,newborn,Injury,1,UN,Healed,Syrian
+F,newborn,Injury,2,UN,Healed,Syrian
+F,newborn,Injury,2,UN,Healed,Syrian
+F, 1-5,Injury,1,UN,Healed,Syrian
+M, 1-5,Injury,2,INSURANCE,Healed,Lebanese
+M, 1-5,Injury,1,UN,Healed,Syrian
+M, 1-5,Injury,1,INSURANCE,Healed,Lebanese
+F, 1-5,Injury,1,INSURANCE,Healed,Lebanese
+M, 1-5,Injury,2,UN,Healed,Syrian
+M, 1-5,Injury,2,UN,Healed,Syrian
+M, 1-5,Injury,2,UN,Healed,Syrian
+M, 1-5,Injury,2,UN,Healed,Syrian
+M, 1-5,Injury,2,UN,Healed,Syrian
+M, 1-5,Injury,1,UN,Healed,Syrian
+M, 1-5,Injury,4,UN,Healed,Syrian
+M, 1-5,Injury,1,INSURANCE,Healed,Lebanese
+M, 1-5,Injury,2,UN,Healed,Syrian
+M, 1-5,Injury,6,INSURANCE,Healed,Lebanese
+M, 1-5,Injury,2,UN,Healed,Syrian
+F, 1-5,Injury,1,UN,Healed,Syrian
+M, 1-5,Injury,3,UN,Healed,Syrian
+M, 1-5,Injury,1,INSURANCE,sick,Lebanese
+M, 1-5,Injury,1,INSURANCE,Healed,Lebanese
+M, 1-5,Injury,1,INSURANCE,Healed,Lebanese
+M, 1-5,Injury,2,INSURANCE,Healed,Lebanese
+M, 1-5,Injury,3,UN,Healed,Syrian
+M, 6-10,Injury,1,UN,Healed,Syrian
+M, 6-10,Injury,2,INSURANCE,Healed,Lebanese
+M, 6-10,Injury,3,UN,Healed,Syrian
+M, 6-10,Injury,7,UN,Healed,Syrian
+M, 6-10,Injury,3,UN,Healed,Syrian
+F, 6-10,Injury,1,INSURANCE,Healed,Lebanese
+F, 6-10,Injury,2,UN,Healed,Syrian
+M, 6-10,Injury,3,INSURANCE,Healed,Lebanese
+M, 6-10,Injury,1,UN,Healed,Syrian
+F, 6-10,Injury,1,INSURANCE,Healed,Lebanese
+M, 11-15,Injury,1,INSURANCE,Healed,Lebanese
+F, 11-15,Injury,1,INSURANCE,Healed,Lebanese
+M, 11-15,Injury,2,INSURANCE,Healed,Lebanese
+M, 11-15,Injury,11,UN,Healed,Syrian
+M, 11-15,Injury,1,PRIVATE,Healed,Lebanese
+M, 16-20,Injury,1,INSURANCE,Healed,Lebanese
+M, 1-5,Injury,3,INSURANCE,Healed,Lebanese
+M, 6-10,Injury,3,PRIVATE,Healed,Lebanese
+M, 6-10,Injury,3,UN,Healed,Syrian
+M, 11-15,Injury,8,INSURANCE,Healed,Lebanese
+M, 16-20,Injury,1,INSURANCE,Healed,Lebanese
+F, 1-5,Injury,1,UN,Healed,Syrian
+M, 6-10,Injury,1,INSURANCE,Healed,Lebanese
+F, 1-5,Injury,2,UN,Healed,Syrian
+F, 1-5,Injury,1,INSURANCE,Healed,Lebanese
+F, 1-5,Injury,1,UN,Healed,Syrian
+M, 1-5,Injury,1,UN,Healed,Syrian
+M, 1-5,Injury,1,UN,Healed,Syrian
+M, 6-10,Injury,1,INSURANCE,Healed,Lebanese
+M, 11-15,Injury,1,INSURANCE,Healed,Lebanese
+F, 1-5,Injury,1,INSURANCE,Healed,Lebanese
+M, 1-5,Injury,1,UN,Healed,Syrian
+M, 1-5,Injury,1,UN,Healed,Syrian
+M, 1-5,Injury,1,UN,Healed,Syrian
+M, 1-5,Injury,1,INSURANCE,Healed,Lebanese
+M, 1-5,Injury,1,INSURANCE,Healed,Lebanese
+M, 1-5,Injury,2,UN,Healed,Syrian
+F, 1-5,Injury,1,INSURANCE,Healed,Lebanese
+F, 6-10,Injury,1,INSURANCE,Healed,Lebanese
+M, 6-10,Injury,2,UN,Healed,Syrian
+F, 6-10,Injury,2,INSURANCE,Healed,Lebanese
+F, 6-10,Injury,1,INSURANCE,Healed,Lebanese
+F, 6-10,Injury,1,INSURANCE,Healed,Lebanese
+M, 6-10,Injury,2,INSURANCE,Healed,Lebanese
+M, 6-10,Injury,1,INSURANCE,Healed,Lebanese
+M, 1-5,Injury,1,UN,Healed,Syrian
+F, 1-5,Injury,1,UN,Healed,Syrian
+M, 6-10,Injury,1,UN,Healed,Syrian
+M, 11-15,Injury,1,UN,Healed,Syrian
+M, 16-20,Injury,1,INSURANCE,Healed,Lebanese
+F, 1-5,Injury,1,UN,Healed,Syrian
+M, 11-15,Injury,1,INSURANCE,Healed,Lebanese
+M, 1-5,Injury,1,INSURANCE,Healed,Lebanese
+M, 6-10,Injury,1,INSURANCE,Healed,Lebanese
+M, 6-10,Injury,1,UN,Healed,Syrian
+M, 6-10,Injury,1,INSURANCE,Healed,Lebanese
+M, 6-10,Injury,1,INSURANCE,Healed,Lebanese
+M, 6-10,Injury,1,INSURANCE,Healed,Lebanese
+F, 6-10,Injury,1,UN,Healed,Syrian
+M, 6-10,Injury,1,INSURANCE,Healed,Lebanese
+F, 6-10,Injury,1,INSURANCE,Healed,Lebanese
+M, 11-15,Injury,1,INSURANCE,Healed,Lebanese
+M, 11-15,Injury,1,UN,Healed,Syrian
+M, 21-30,Injury,1,INSURANCE,Healed,Lebanese
+M, 11-15,Injury,1,UN,Healed,Syrian
+F, 16-20,Injury,1,INSURANCE,Healed,Lebanese
+M, 6-10,Injury,1,INSURANCE,Healed,Lebanese
+M, 6-10,Injury,1,INSURANCE,Healed,Lebanese
+M, 11-15,Injury,1,INSURANCE,Healed,Lebanese
+M, 6-10,Injury,1,UN,Healed,Syrian
+F, 6-10,Injury,1,UN,Healed,Syrian
+M, 1-5,Injury,1,UN,Healed,Syrian
+M, 1-5,Injury,3,UN,Healed,Syrian
+F, 1-5,Injury,1,INSURANCE,Healed,Lebanese
+M, 1-5,Injury,1,UN,sick,Syrian
+M, 6-10,Injury,1,INSURANCE,Healed,Lebanese
+M, 6-10,Injury,1,INSURANCE,Healed,Lebanese
+M, 6-10,Injury,1,INSURANCE,Healed,Lebanese
+M, 6-10,Injury,1,INSURANCE,Healed,Lebanese
+F, 6-10,Injury,1,INSURANCE,Healed,Lebanese
+M, 6-10,Injury,1,INSURANCE,Healed,Lebanese
+F, 6-10,Injury,1,INSURANCE,Healed,Lebanese
+F, 11-15,Injury,1,INSURANCE,Healed,Lebanese
+M, 11-15,Injury,1,INSURANCE,Healed,Lebanese
+M, 11-15,Injury,3,UN,Healed,Syrian
+M, 1-5,Injury,1,UN,Healed,Syrian
+M, 1-5,Injury,2,UN,Healed,Syrian
+F, 1-5,Injury,1,PRIVATE,Healed,Lebanese
+M, 11-15,Injury,1,UN,Healed,Syrian
+M, 11-15,Injury,1,INSURANCE,Healed,Lebanese
+F, 6-10,Injury,3,INSURANCE,Healed,Lebanese
+F, 6-10,Injury,1,INSURANCE,Healed,Lebanese
+M, 11-15,Injury,2,INSURANCE,Healed,Lebanese
+F, 11-15,Injury,1,UN,Healed,Syrian
+F, 11-15,Injury,1,INSURANCE,Healed,Lebanese
+F, 1-5,Injury,1,UN,Healed,Syrian
+M, 1-5,Injury,6,UN,Healed,Syrian
+F, 11-15,Injury,1,INSURANCE,Healed,Lebanese
+M, 1-5,Skin Disease,2,INSURANCE,Healed,Lebanese
+F, 6-10,Skin Disease,1,INSURANCE,Healed,Lebanese
+M, 6-10,Skin Disease,1,INSURANCE,Healed,Lebanese
+F, 1-5,Skin Disease,1,INSURANCE,Healed,Lebanese
+F, 21-30,Skin Disease,1,INSURANCE,Healed,Lebanese
+M, 21-30,Skin Disease,1,INSURANCE,Healed,Lebanese
+F, 21-30,Skin Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Skin Disease,4,INSURANCE,Healed,Lebanese
+F,newborn,Skin Disease,3,INSURANCE,Healed,Lebanese
+F,newborn,Skin Disease,5,INSURANCE,Healed,Lebanese
+F, 1-5,Skin Disease,3,INSURANCE,Healed,Lebanese
+M, 1-5,Skin Disease,8,PRIVATE,Healed,Lebanese
+F, 1-5,Skin Disease,2,INSURANCE,Healed,Lebanese
+F, 11-15,Skin Disease,1,INSURANCE,Healed,Lebanese
+M, 6-10,Skin Disease,1,INSURANCE,Healed,Lebanese
+F, 6-10,Skin Disease,5,INSURANCE,Healed,Lebanese
+M, 11-15,Skin Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Surgery,6,INSURANCE,Healed,Lebanese
+F,newborn,Surgery,2,INSURANCE,Healed,Lebanese
+F, 1-5,Surgery,2,INSURANCE,Healed,Lebanese
+M, 1-5,Surgery,2,UN,Healed,Syrian
+F, 1-5,Surgery,3,UN,Healed,Syrian
+F, 6-10,Surgery,2,INSURANCE,Healed,Lebanese
+F, 1-5,Surgery,1,INSURANCE,Healed,Lebanese
+M, 11-15,Surgery,3,INSURANCE,Healed,Lebanese
+M, 6-10,Surgery,2,INSURANCE,Healed,Lebanese
+M, 6-10,Surgery,2,UN,Healed,Syrian
+M, 6-10,Surgery,2,INSURANCE,Healed,Lebanese
+M, 11-15,Surgery,6,INSURANCE,Healed,Lebanese
+M, 11-15,Surgery,1,INSURANCE,Healed,Lebanese
+F, 6-10,Surgery,4,INSURANCE,Healed,Lebanese
+M, 6-10,Surgery,4,UN,Healed,Syrian
+M, 11-15,Surgery,15,INSURANCE,Healed,Lebanese
+F,newborn,Surgery,1,UN,Healed,Syrian
+F,newborn,Surgery,1,UN,Healed,Syrian
+M, 6-10,Injury,1,INSURANCE,Healed,Lebanese
+M, 6-10,Injury,1,UN,Healed,Syrian
+M, 1-5,Injury,1,UN,Healed,Syrian
+F, 1-5,Injury,1,INSURANCE,Healed,Lebanese
+M, 6-10,Injury,1,INSURANCE,sick,Lebanese
+F, 1-5,Injury,1,UN,Healed,Syrian
+M, 1-5,Injury,1,UN,Healed,Syrian
+M, 6-10,Injury,1,INSURANCE,Healed,Lebanese
+M, 1-5,Injury,8,UN,Healed,Syrian
+M, 1-5,Injury,12,INSURANCE,sick,Lebanese
+F, 6-10,Injury,1,INSURANCE,Healed,Lebanese
+F, 1-5,Intoxication,1,INSURANCE,Healed,Lebanese
+M, 1-5,Intoxication,1,UN,Healed,Syrian
+M, 1-5,Intoxication,1,INSURANCE,Healed,Lebanese
+M, 6-10,Intoxication,1,UN,Healed,Syrian
+F, 1-5,Intoxication,1,UN,Healed,Syrian
+M, 1-5,Intoxication,1,INSURANCE,Healed,Lebanese
+M, 1-5,Intoxication,2,INSURANCE,Healed,Lebanese
+F, 1-5,Intoxication,1,INSURANCE,Healed,Lebanese
+M, 1-5,Intoxication,1,INSURANCE,Healed,Lebanese
+M, 1-5,Intoxication,1,UN,Healed,Syrian
+M, 1-5,Intoxication,1,UN,Healed,Syrian
+F, 1-5,Intoxication,2,INSURANCE,Healed,Lebanese
+M, 11-15,Respiratory Disease,2,INSURANCE,Healed,Lebanese
+M, 6-10,Injury,2,INSURANCE,Healed,Lebanese
+F, 1-5,Allergy,2,INSURANCE,Healed,Lebanese
+F, 6-10,Allergy,2,INSURANCE,Healed,Lebanese
+F, 6-10,Allergy,4,INSURANCE,Healed,Lebanese
+F, 16-20,Allergy,6,INSURANCE,Healed,Lebanese
+F, 30-40,Allergy,4,INSURANCE,Healed,Lebanese
+M, 6-10,Renal Disease,8,PRIVATE,Healed,Lebanese
+M, 1-5,Injury,1,INSURANCE,Healed,Lebanese
+M, 1-5,Injury,8,INSURANCE,Healed,Lebanese
+M, 11-15,Injury,2,INSURANCE,Healed,Lebanese
+M, 11-15,Injury,2,INSURANCE,Healed,Lebanese
+M, 11-15,Injury,7,INSURANCE,Healed,Lebanese
+F, 1-5,Intoxication,1,INSURANCE,Healed,Lebanese
+M, 1-5,Intoxication,1,UN,sick,Syrian
+M, 1-5,Intoxication,4,UN,Healed,Syrian
+M, 1-5,Intoxication,1,PRIVATE,Healed,Lebanese
+F, 21-30,Heart Disease,1,INSURANCE,Healed,Lebanese
+M, 1-5,Pain,1,INSURANCE,Healed,Lebanese
+M, 1-5,Pain,1,INSURANCE,Healed,Lebanese
+M, 1-5,Pain,1,INSURANCE,Healed,Lebanese
+M, 6-10,Pain,1,INSURANCE,Healed,Lebanese
+M, 6-10,Pain,1,INSURANCE,Healed,Lebanese
+M, 11-15,Pain,1,INSURANCE,Healed,Lebanese
+M, 11-15,Pain,1,INSURANCE,Healed,Lebanese
+F, 11-15,Surgery,1,PRIVATE,Healed,Lebanese
+F, 21-30,Surgery,1,PRIVATE,Healed,Lebanese
+F, 21-30,Surgery,1,PRIVATE,Healed,Lebanese
+F, 30-40,Surgery,1,PRIVATE,Healed,Lebanese
+M, 6-10,Surgery,1,INSURANCE,Healed,Lebanese
+F, 6-10,Surgery,1,INSURANCE,Healed,Lebanese
+F, 1-5,Surgery,1,UN,Healed,Syrian
+M, 1-5,Surgery,1,UN,Healed,Syrian
+F, 1-5,Surgery,1,INSURANCE,Healed,Lebanese
+F, 1-5,Surgery,1,UN,Healed,Syrian
+M, 1-5,Surgery,1,UN,Healed,Syrian
+M, 1-5,Surgery,1,INSURANCE,Healed,Lebanese
+M, 6-10,Surgery,1,UN,Healed,Syrian
+M, 6-10,Surgery,1,UN,Healed,Syrian
+F, 6-10,Surgery,1,UN,Healed,Syrian
+M, 6-10,Surgery,1,UN,Healed,Syrian
+M, 6-10,Surgery,1,UN,Healed,Syrian
+M, 6-10,Surgery,1,UN,Healed,Syrian
+M, 6-10,Surgery,1,UN,Healed,Syrian
+M, 6-10,Surgery,1,UN,Healed,Syrian
+F, 6-10,Surgery,1,UN,Healed,Syrian
+M, 6-10,Surgery,1,INSURANCE,Healed,Lebanese
+M, 11-15,Surgery,1,UN,Healed,Syrian
+M, 11-15,Surgery,1,INSURANCE,Healed,Lebanese
+M, 11-15,Surgery,1,INSURANCE,Healed,Lebanese
+M, 11-15,Surgery,1,INSURANCE,Healed,Lebanese
+M, 16-20,Surgery,1,INSURANCE,Healed,Lebanese
+M, 16-20,Surgery,1,INSURANCE,Healed,Lebanese
+M, 16-20,Surgery,1,INSURANCE,Healed,Lebanese
+M, 16-20,Surgery,1,INSURANCE,Healed,Lebanese
+F, 21-30,Surgery,1,INSURANCE,Healed,Lebanese
+M, 21-30,Surgery,1,INSURANCE,Healed,Lebanese
+M, 21-30,Surgery,1,PRIVATE,Healed,Lebanese
+F, 21-30,Surgery,1,INSURANCE,Healed,Lebanese
+M, 21-30,Surgery,1,INSURANCE,Healed,Lebanese
+M, 21-30,Surgery,1,INSURANCE,Healed,Lebanese
+M, 30-40,Surgery,1,INSURANCE,Healed,Lebanese
+F, 1-5,Surgery,1,INSURANCE,Healed,Lebanese
+M, 6-10,Surgery,3,INSURANCE,Healed,Lebanese
+F, 11-15,Surgery,7,PRIVATE,Healed,Lebanese
