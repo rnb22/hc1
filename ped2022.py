@@ -1,35 +1,16 @@
 ### importing packages required ###
-import site
 from turtle import color
 import streamlit as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-from sklearn import model_selection
-from sklearn.linear_model import LogisticRegression
-import sklearn.metrics as metrics
-from sklearn.model_selection import train_test_split
 import hydralit_components as hc
 from streamlit_option_menu import option_menu
-from streamlit_lottie import st_lottie
 from PIL import Image
-import altair as alt
 import plotly_express as px
 import hydralit_components as hc
 from streamlit_option_menu import option_menu
-import plotly.figure_factory as ff
-
-from sklearn.preprocessing import LabelEncoder,OneHotEncoder, RobustScaler, StandardScaler, MinMaxScaler
-from sklearn.impute import KNNImputer, SimpleImputer
-from sklearn.pipeline import Pipeline,make_pipeline
-from sklearn.compose import ColumnTransformer
-from sklearn.linear_model import LogisticRegression
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.model_selection import cross_validate,cross_val_score,GridSearchCV,KFold,StratifiedKFold
-from sklearn.ensemble import RandomForestClassifier,GradientBoostingClassifier
-from sklearn.metrics import auc, roc_curve
-import pickle 
 
 
 ### importing data ### 
@@ -118,7 +99,7 @@ if Menu== "Dashboard":col9.markdown("Nationality Distribution by Age")
 if Menu=="Dashboard": col9.pyplot(fig1)
 
 ### Barplot 1 ###
-import altair as alt
+
 
 discharge = (df.groupby(['Discharge'])['Nationality'].value_counts(normalize=True).rename('percentage').mul(100).reset_index().sort_values('Nationality'))
 fig1=plt.figure(figsize=(10,8))
@@ -169,34 +150,8 @@ if Menu == "Findings": st.write("3. 2,035 Syrian patients are under obstetric (d
 if Menu == "Findings": st.write("4. If a girl admitted to the hospital, aged between 15-18 years old, and holds a Syrian nationality, we predict her diagnosis to be Obstetric/Gynecology")
 if Menu == "Findings": st.write("The OB/PED Department is admitting a lot of patients that are covered by the UN which means payments are settled in Fresh USD, but although there might be a financial profit, yet this is causing a big problem with staff readiness and safety, overpopulation, and higher mortality rates due to lack of hygiene awareness.")
 
-############################ PREDICTIVE MODELLING #########################################
 
-pd.crosstab(df["Diagnosis"], df["Coverage"])
 
-#### PREDICTIVE MODEL ###
-X = df.drop(['Nationality','Coverage', 'Age', 'Gender', "Discharge", "LOS"],axis = 1)
-y = df['Discharge']
-
-num_features = X.select_dtypes(include = np.number).columns.tolist()
-cat_features = X.select_dtypes(include = 'object').columns.tolist()
-
-lbl = LabelEncoder()
-y = lbl.fit_transform(y)
-
-# Categorical Pipeline by replacing missing values with most frequent value and one hot encoding
-categorical_pipeline = Pipeline(steps=[('impute',SimpleImputer(missing_values=np.nan, strategy='most_frequent')),('ohe',OneHotEncoder(sparse=False,handle_unknown='ignore'))])
-numerical_pipeline = Pipeline(steps=[('imputer', KNNImputer(missing_values=np.NaN)),('normalize',MinMaxScaler())])
-preprocessor = ColumnTransformer(transformers =[('num', numerical_pipeline, num_features),('cat', categorical_pipeline, cat_features)], remainder = 'drop')
-cv = KFold(n_splits=10, random_state=42, shuffle=True)
-model = LogisticRegression()
-pipe_lg = Pipeline(steps=[('preprocessor',preprocessor),('model',model)])
-scores = cross_validate(pipe_lg, X, y, scoring= ['roc_auc','accuracy'], cv = cv, n_jobs=-1, return_train_score = True)
-
-# Reporting the Results
-print('AUC-Train : Cross Validation AUC: %.3f, Standard Deviation: (%.3f)' % (np.mean(scores['train_roc_auc']), np.std(scores['train_roc_auc'])))
-print('AUC-Test : Cross Validation AUC %.3f, Standard Deviation: (%.3f)' % (np.mean(scores['test_roc_auc']), np.std(scores['test_roc_auc'])))
-print('Accuracy Train : Cross Validation Accuracy: %.3f '% np.mean(scores['train_accuracy']))
-print('Accuracy Test : Cross Validation Accuracy: %.3f '% np.mean(scores['test_accuracy']))
 
 
 
