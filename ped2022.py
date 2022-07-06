@@ -14,7 +14,7 @@ from streamlit_option_menu import option_menu
 
 
 ### importing data ### 
-df=pd.read_csv("C:/Users/ranab/Desktop/myproject/ped2022.csv")
+df=pd.read_csv("ped2022.csv")
 
 ### Menu Home Page ###
 Menu = option_menu(None, ["Home","Dataset","Dashboard", "Findings"],icons=['house',"cloud","bar-chart-line","clipboard-check"],menu_icon="cast", default_index=0, orientation="horizontal", styles={"container": {"padding": "0!important", "background-color": "#B0C4DE"},"icon": {"color": "black", "font-size": "25px"}, "nav-link": {"font-size": "15px", "text-align": "left", "margin":"0px", "--hover-color": "#eee"},"nav-link-selected": {"background-color": "#4F6272"},})
